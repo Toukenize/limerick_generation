@@ -37,7 +37,7 @@ def get_sound_to_vocab_lookup():
 
     return sound_to_vocab_lookup
 
-def get_vocab_to_sound_loopup():
+def get_vocab_to_sound_lookup():
     
     with open(VOCAB_TO_SOUND_LOOKUP_PATH, 'r') as handle:
         sound_to_vocab_lookup = json.load(handle)
@@ -46,7 +46,7 @@ def get_vocab_to_sound_loopup():
 
     return sound_to_vocab_lookup
 
-def get_vocab_to_syllable_loopup():
+def get_vocab_to_syllable_lookup():
     
     with open(VOCAB_TO_SYLLABLE_LOOKUP_PATH, 'r') as handle:
         sound_to_vocab_lookup = json.load(handle)
