@@ -1,4 +1,5 @@
-### 1. Set up Environment
+# How to Run
+## 1. Set up Environment
 
 > Skip to **Section 2** if you have Pytorch 1.4 and Gensim 3.8.1 installed on a Python 3.8 environment.
 
@@ -9,7 +10,7 @@
 5. Install the environment using `conda env create -f pytorch_env.yml`
 6. Activate the environment `conda activate pytorch_env` (update the command according to the name you specified in step 4, if you made changes).
 
-### 2. Generate Limericks
+## 2. Generate Limericks
 
 1. Make sure you are in the directory `limerick`. (Change directory using `cd limerick` if you just completed the last step of setting up).
 
