@@ -39,11 +39,11 @@
 
    - Enter **Y** to generate limerick:
 
-     ![cmd_ui_limerick_sample](screenshots\cmd_ui_limerick_sample.png)
+     ![cmd_ui_limerick_sample](screenshots/cmd_ui_limerick_sample.png)
 
    - Enter **S** to generate limerick and predicted sound tokens:
 
-     ![cmd_ui_limerick_n_sound_sample](D:\MTech\Y3S1\EB5002 - Text Processing\CA\src\screenshots\cmd_ui_limerick_n_sound_sample.png)
+     ![cmd_ui_limerick_n_sound_sample](screenshots/cmd_ui_limerick_n_sound_sample.png)
 
    - Enter **N** to exit the program.
 
